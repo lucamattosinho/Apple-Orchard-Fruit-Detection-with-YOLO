@@ -91,8 +91,8 @@ def calculate_iou_for_directories(labels_dir, preds_dir, img_width=640, img_heig
     return results
 
 # Diretórios contendo os arquivos .txt
-labels_dir = "C:/Users/píchau/Documents/TCC/dataset/labels/test"       # Diretório com ground truth
-preds_dir = "C:/Users/píchau/Documents/TCC/yolov8-env/runs/detect/predict2/labels"   # Diretório com previsões
+labels_dir = "C:/Users/píchau/Documents/TCC/dataset/labels/test_preprocessed"       # Diretório com ground truth
+preds_dir = "C:/Users/píchau/Documents/TCC/yolov8-env/runs/detect/predict_clahe_gauss/labels"   # Diretório com previsões
 
 # Dimensões das imagens (modifique se necessário)
 img_width = 1024
