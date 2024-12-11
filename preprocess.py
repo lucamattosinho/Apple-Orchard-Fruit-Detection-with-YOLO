@@ -24,7 +24,7 @@ for image_path in glob(os.path.join(input_dir, "*.png")):
     # Carregar imagem
     img = cv2_ext.imread(image_path)
     
-    hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
+    #hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
 
     # Definir intervalos de cor para vermelho
     #intervalo_baixo1 = np.array([0, 25, 25])   # Vermelho inicial
