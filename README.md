@@ -38,7 +38,7 @@ This project leverages **computer vision** to detect and count apples in orchard
 The models were tested on a real-world dataset, achieving **89% precision** and an **F1-Score of 87%**. Below are some detection examples:  
 
 📷 **Predictions on images:**  
-![Results](results/example_predictions.png)  
+![Results](results/)  
 
 🎥 **Predictions on videos:**  
 [Watch here](https://drive.google.com/drive/folders/1YUcnz0uGOx6oQYtU2NSeBqcMehLdP7IC?usp=drive_link)  
