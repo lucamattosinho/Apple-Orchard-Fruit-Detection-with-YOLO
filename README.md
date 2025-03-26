@@ -52,4 +52,4 @@ The models were tested on a real-world dataset, achieving **89% precision** and 
 
 This project can be expanded to detect other types of fruits, optimize the model for embedded devices, and integrate with drones for orchard mapping.  
 
-📫 **Contact:** [Your LinkedIn or email]  
+📫 **Contact:** [www.linkedin.com/in/luca-mattosinho-486313194]  
