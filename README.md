@@ -41,7 +41,7 @@ The models were tested on a real-world dataset, achieving **89% precision** and 
 ![Results](results/example_predictions.png)  
 
 🎥 **Predictions on videos:**  
-[Watch here](https://github.com/lucamattosinho/TCC/videos)  
+[Watch here](https://drive.google.com/drive/folders/1YUcnz0uGOx6oQYtU2NSeBqcMehLdP7IC?usp=drive_link)  
 
 ---
 
