@@ -26,9 +26,8 @@ This project leverages **computer vision** to detect and count apples in orchard
 
 ## 📂 Project Structure  
 ```
-📁 dataset/                  # Labeled image dataset  
 📁 models/                   # Trained models and weights  
-📁 scripts/                  # Preprocessing and inference scripts  
+📁 prep_scripts/                  # Preprocessing and inference scripts  
 📁 results/                  # Detection results on images and videos  
 📜 README.md                 # This document  
 ```
